@@ -3,8 +3,10 @@ h1 {
 }
 
 body {
- background-image: url("assets/IMG_0996.JPG");
- background-color: #cccccc;
+  background-image: url("assets/1046_original.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: contain;
 }
 
 body {
